@@ -19,11 +19,11 @@
   </dependencies>
 
   <distributionManagement> 
-    <repository> 
+    <snapshotRepository> 
       <id>java-deploy</id> 
       <name>java-deploy</name> 
       <url>https://github.com/compilerking420/java-deploy</url> 
-    </repository> 
+    </snapshotRepository> 
   
   </distributionManagement> 
   
